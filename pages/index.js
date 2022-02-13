@@ -29,10 +29,11 @@ export default function Home({ allPostsData }) {
           </a>
         </p>
         <p>
-          I built this site to improve my knowledge Next.js based on the{" "}
+          I built this site to learn about Next.js based on the{" "}
           <a href="https://nextjs.org/learn" target="_blank">
             Next.js tutorial
           </a>
+          .
         </p>
       </section>
 
