@@ -27,6 +27,7 @@ export default function Home({ allPostsData }) {
           <a href="https://twitter.com/tetteis" target="_blank">
             Twitter
           </a>
+          .
         </p>
         <p>
           I built this site to learn about Next.js based on the{" "}
